@@ -1,5 +1,5 @@
 body  {
-       background:   pink;
+       background:   lightpink;
        color:    black;
        font-family:  Tahoma￼;
        text-align: center;
@@ -13,12 +13,13 @@ body  {
  }
  
  img { 
-       width: 300px;
+       width: 400px;
        border-radius: 20px;
+       box-shadow: 5px 5px 10px gray;
        
   }
   
-  p { color : darkgray;
+  p { color : purple;
       font-style : italic;
       
    }
