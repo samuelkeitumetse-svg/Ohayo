@@ -23,5 +23,10 @@ body  {
       font-style : italic;
       
    }
+   
+   ul { color : purple;
+    list-style-position: inside;
+    padding-left: 0;
+}
  
  
