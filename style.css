@@ -29,5 +29,17 @@ body  {
     padding-left: 0;
 }
  
- div { background : lilac; 
+ #about { background : lavender; 
+ }
  
+ #hobbies {background : peachpuff;
+ }
+ 
+ #games { background : lightblue;
+ }
+ 
+ #anime {background : mintcream;
+ }
+ 
+ 
+
